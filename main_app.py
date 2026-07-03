@@ -70,4 +70,4 @@ def main():
                     st.info("Conversion unavailable for empty or image-only pages.")
 
 if __name__ == "__main__":
-    main()
+   main()
